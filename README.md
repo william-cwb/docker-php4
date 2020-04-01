@@ -6,7 +6,7 @@ O que significa os comandos do docker-compose.yaml
 A versão significa a versão 3 do arquivo yaml
 
 <strong>#services:</strong>
-php-serve é o nome dos serviços, pode-se dar qualquer nome.
+php-server é o nome dos serviços, pode-se dar qualquer nome.
 
 <strong>#image:</strong>
 Corresponde a imagem que se encontra lá dentro do DockerHub.
