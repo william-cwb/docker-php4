@@ -16,3 +16,6 @@ A parte './' significa que vai pegar todo o projeto que está na raiz e vai mand
 
 <strong>#ports:</strong>
 A primeira porta correnponde a porta da sua máquina e a segunda porta corresponde à porta do container.
+
+<strong>Como executar: </strong>
+Na raiz do projeto executar o seguinte comando: docker-compose up
