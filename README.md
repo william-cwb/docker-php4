@@ -1,18 +1,18 @@
-##Container rodando PHP4.
+<strong>Container rodando PHP4.</strong>
 
 O que significa os comandos do docker-compose.yaml
 
-##version
+<strong>#version: </strong>
 A versão significa a versão 3 do arquivo yaml
 
-##services
+<strong>#services:</strong>
 php-serve é o nome dos serviços, pode-se dar qualquer nome.
 
-##image
+<strong>#image:</strong>
 Corresponde a imagem que se encontra lá dentro do DockerHub.
 
-##volumes:
+<strong>#volumes:</strong>
 A parte './' significa que vai pegar todo o projeto que está na raiz e vai mandar para dentro do container para dentro do apache, que se localize em: '/var/www/html'.
 
-##ports
+<strong>#ports:</strong>
 A primeira porta correnponde a porta da sua máquina e a segunda porta corresponde à porta do container.
