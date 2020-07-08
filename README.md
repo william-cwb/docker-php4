@@ -1,4 +1,4 @@
-<strong>Container rodando PHP4.</strong>
+<strong>Container rodando PHP7.4.</strong>
 
 O que significa os comandos do docker-compose.yaml
 
